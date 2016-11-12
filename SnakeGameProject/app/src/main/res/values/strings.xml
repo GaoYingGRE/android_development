@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SnakeGameProject</string>
+    <string name="play">Play Game</string>
+    <string name="stop">Stop Game</string>
+    <string name="youlose">You LOSE!</string>
+    <string name="score">Score: %1$d earned</string>
+</resources>
